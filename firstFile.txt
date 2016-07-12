@@ -1,2 +1,3 @@
 hello, how are you doing?
 text in the branch
+line 3
