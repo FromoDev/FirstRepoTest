@@ -1,2 +1,4 @@
 hello, how are you doing?
-conflict from master
+
+text in the branch
+
